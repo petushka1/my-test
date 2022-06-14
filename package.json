@@ -1,0 +1,19 @@
+{
+  "name": "my-test",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petushka1/my-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petushka1/my-test/issues"
+  },
+  "homepage": "https://github.com/petushka1/my-test#readme"
+}
